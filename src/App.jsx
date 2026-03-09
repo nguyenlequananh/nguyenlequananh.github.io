@@ -25,7 +25,7 @@ function App() {
         {/* NÚT XEM CV */}
         <div className="cv-wrapper">
           <a 
-            href="https://thuat3tuoi.github.io/cv_DuongVanThuat.pdf" 
+            href="/CV_NGUYENLEQUANANH.pdf" 
             target="_blank" 
             rel="noopener noreferrer" 
             className="cv-btn"
@@ -139,8 +139,8 @@ function App() {
             </div>
             <div className="contact-item">
               <span>GitHub:</span>
-              <a href="https://github.com/yourusername" target="_blank" rel="noreferrer">
-                github.com/yourusername
+              <a href="https://github.com/nguyenlequananh" target="_blank" rel="noreferrer">
+                github.com/nguyenlequananh
               </a>
             </div>
           </div>
